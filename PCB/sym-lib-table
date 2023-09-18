@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Super-Regulator-Combined-rescue)(type Legacy)(uri "${KIPRJMOD}/Super-Regulator Combined-rescue.lib")(options "")(descr ""))
+)
