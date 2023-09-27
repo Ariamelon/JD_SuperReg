@@ -8,4 +8,5 @@ This power supply is based on Walt Jung and Jan Didden's [Super Regulator](https
 ![Board Render Back](Showcase/Board-Render-B.png)
 
 ## Changelog
+* 27/09/2023: Changed board to 4 layers. Removed fuses. Added MOV surge protection and resistors for RC input filter.
 * 25/09/2023: Initial public upload.
